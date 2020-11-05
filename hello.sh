@@ -1,6 +1,6 @@
 #!/bin/bash
 clear;
-echo "Hello Word"
+echo "Hello Words modificado"
 exit;
 
 
